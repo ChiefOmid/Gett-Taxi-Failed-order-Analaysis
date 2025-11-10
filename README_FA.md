@@ -79,7 +79,13 @@
 
 ### پیش‌نیازها  
 - نصب Python 3.9+  
-- نصب Jupyter Notebook  
+- نصب Jupyter Notebook
+
+
+ ![gett taxi](https://github.com/user-attachments/assets/8d63ded4-90c1-453e-9853-1710d83e8b0a)
+![gett taxi 2](https://github.com/user-attachments/assets/93034ccf-16c7-4128-bfd6-faf128b88fcb)
+![gett taxi 3](https://github.com/user-attachments/assets/f4a79eb3-19e5-496d-b17e-ef75ebb67b42)
+
 
 نصب کتابخانه‌های مورد نیاز:  
 ```bash
